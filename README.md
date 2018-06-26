@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is my project for Udacity's first project in the React nanondegree program. In this project you will be given a list of books in 3 shelves - Currently Reading, Want To Read and Read.  You can move the books between shelves or remove the book from your list. Click the Add button to search for another book(s), if a book is in the results that is in one of your shelves it's correct bookshelf is displayed in the shelf changer.
+This is my first project for Udacity's React nanondegree program. In this project you will be given a list of books in 3 shelves - Currently Reading, Want To Read and Read.  You can move the books between shelves or remove the book from your list. Click the Add button to search for another book(s), if a book is in the results that is in one of your shelves it's correct bookshelf is displayed in the shelf changer.
 
 ## TL;DR
 
